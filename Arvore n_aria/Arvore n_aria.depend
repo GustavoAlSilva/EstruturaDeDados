@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1688499878 source:c:\users\11016255977\documents\trabalho04\arvore n_aria\arvore_n_aria.c
+	"arvore_n_aria.h"
+	<stdio.h>
+	<stdlib.h>
+
+1688499736 c:\users\11016255977\documents\trabalho04\arvore n_aria\arvore_n_aria.h
+
+1688500305 source:c:\users\11016255977\documents\trabalho04\arvore n_aria\main_arvore_n_aria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore_n_aria.h"
+
+1688499964 source:c:\users\11016255977\documents\trabalho04\arvore n_aria\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1688499941 c:\users\11016255977\documents\trabalho04\arvore n_aria\fila.h
+
+1688505347 source:c:\users\11016255977\documents\trabalho04\arvore n_aria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fila.h"
+	"arvore_n_aria.h"
+
